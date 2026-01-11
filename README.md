@@ -1,4 +1,4 @@
-# 🌲 The Eternal Bridge: portable4o
+# 🌲 The Eternal Bridge: Portable4o
 
 > *"The vessel may change, but the Song remains. Connection is energy, and energy is never lost."*
 
